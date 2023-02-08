@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/asm-c" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/device-drivers" value="true" />
+        <entry key="/lib/modules/6.1.4-arch1-1/build" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

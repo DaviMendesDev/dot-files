@@ -1,0 +1,48 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/asm-c">
+          <value>
+            <RecentProjectMetaInfo frameTitle="asm-c – generic.c" projectWorkspaceId="2KS0qFCTHR08IlkTTisu9N33R9r">
+              <option name="activationTimestamp" value="1674214505731" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.8214.51" />
+              <option name="buildTimestamp" value="1671535305492" />
+              <frame x="12" y="52" width="1652" height="982" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1674214492905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/lib/modules/6.1.4-arch1-1/build">
+          <value>
+            <RecentProjectMetaInfo frameTitle="build – Makefile" projectWorkspaceId="2L3eYOCXEiT0SaOHjqeasy3uZEB">
+              <option name="activationTimestamp" value="1675105335835" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.8214.51" />
+              <option name="buildTimestamp" value="1671535306004" />
+              <frame x="12" y="52" width="1652" height="982" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1675104239892" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/device-drivers">
+          <value>
+            <RecentProjectMetaInfo frameTitle="device_drivers – main.c" opened="true" projectWorkspaceId="2KaZEqVZS7SSMBzNe6FQ7NqLcg8">
+              <option name="activationTimestamp" value="1675733874483" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.8617.54" />
+              <option name="buildTimestamp" value="1674659494109" />
+              <frame x="12" y="12" width="1652" height="1022" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1675729601783" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/CLionProjects/device-drivers" />
+  </component>
+</application>

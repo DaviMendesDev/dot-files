@@ -1,0 +1,28 @@
+<application>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "RunOnceActivity.go.enabled.exportability.sorter": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "FL-1.13.92-4a3ab9ee75ec943279b83c24a04ab549d002603bc8cfc6788e46dfa77c0f1407",
+    "bundled.plugins.list.saved.version": "FL-1.13.92",
+    "decompiler.legal.notice.accepted": "true",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "installed.kotlin.plugin.version": "1-1.7.21-release-272-IJ13.92",
+    "previousColorScheme": "_@user_Default",
+    "registry.to.advanced.settings.migration.build": "FL-1.13.92",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.goide.execution.testing.frameworks.gofuzz.corpus.GoFuzzCorpusFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector"
+    ]
+  }
+}]]></component>
+</application>

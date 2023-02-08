@@ -1,0 +1,121 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1675169099239" />
+    </e>
+    <e n="$Undo">
+      <i c="15" l="1675215461314" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="2" l="1675215583108" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="170" l="1675215598867" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="21" l="1675215519103" />
+    </e>
+    <e n="EditorCopy">
+      <i c="3" l="1675196364367" />
+    </e>
+    <e n="EditorCut">
+      <i c="5" l="1675215233322" />
+    </e>
+    <e n="EditorDelete">
+      <i c="4" l="1675215172610" />
+    </e>
+    <e n="EditorDown">
+      <i c="4" l="1675196334277" />
+    </e>
+    <e n="EditorEnter">
+      <i c="40" l="1675215527591" />
+    </e>
+    <e n="EditorLeft">
+      <i c="5" l="1675215136262" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="4" l="1675215486768" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="2" l="1675174495418" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="3" l="1675215178237" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="1" l="1675189681552" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="1" l="1675189688965" />
+    </e>
+    <e n="EditorPaste">
+      <i c="12" l="1675215242148" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="4" l="1675189715909" />
+    </e>
+    <e n="EditorRight">
+      <i c="8" l="1675196335772" />
+    </e>
+    <e n="EditorTab">
+      <i c="7" l="1675215384031" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1675196334795" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="43" l="1675215523315" />
+    </e>
+    <e n="Move">
+      <i c="1" l="1675215466068" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1675174441718" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1675169095092" />
+    </e>
+    <e n="NewJavaScriptFile">
+      <i c="2" l="1675189668412" />
+    </e>
+    <e n="RenameElement">
+      <i c="3" l="1675215485334" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1675174569574" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1675211869402" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="4" l="1675188439963" />
+    </e>
+    <e n="ToggleBookmark9">
+      <i c="1" l="1675174579908" />
+    </e>
+    <e n="ToggleBookmarkWithMnemonic">
+      <i c="2" l="1675188434538" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="5" l="1675188414266" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="3" l="1675215340544" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="1" l="1675169120887" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1675174572651" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="2" l="1675215612459" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="3" l="1675215308439" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1675188411906" />
+    </e>
+  </component>
+</application>

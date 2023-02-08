@@ -1,0 +1,11 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1680.1050" x="527" y="112" />
+    <size key="CreateCMakeListWizard.topPanel.0.0.1680.1050" width="640" height="476" />
+    <size key="CreateCMakeListWizard.bottomPanel.0.0.1680.1050" width="640" height="204" />
+    <size key="find.popup.0.0.1680.1050" width="672" height="822" />
+  </component>
+  <component name="WindowManager">
+    <frame x="12" y="12" width="1652" height="1022" />
+  </component>
+</application>

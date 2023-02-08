@@ -1,0 +1,6 @@
+2023/01/16-13:44:23.859 5c16 Creating DB /home/lullaby/.config/Postman/Partitions/a528cfac-ad62-46c3-8854-21290262c100/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2023/01/16-13:44:23.869 5c16 Reusing MANIFEST /home/lullaby/.config/Postman/Partitions/a528cfac-ad62-46c3-8854-21290262c100/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/01/16-13:44:23.879 5d49 Level-0 table #5: started
+2023/01/16-13:44:23.882 5d49 Level-0 table #5: 492 bytes OK
+2023/01/16-13:44:23.885 5d49 Delete type=0 #3
+2023/01/16-13:44:23.885 5d49 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

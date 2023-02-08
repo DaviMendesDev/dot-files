@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="future-machines" id="f0e41c7c-cfb9-47e9-8862-63149ecfd939">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

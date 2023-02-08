@@ -1,0 +1,50 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="13.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "MarketplacePluginsSearchHistory": "/tag:theme",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PhpStorm.InitialConfiguration": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "PS-223.8214.64-dd98c59cd71b3cb5af38d9bbfcbd6174f98ec5550d38a69c600f51c31a131b33",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PS-223.8214.64",
+    "completion.ml.enabled.notification.shown": "true",
+    "evlsprt3.223": "23",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "gotit.previous.run": "PS-223.8214.64",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "previousColorScheme": "_@user_Dracula (Material)",
+    "registry.to.advanced.settings.migration.build": "PS-223.8214.64",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1675210229675,
+    "CommentCode": 1675166769452,
+    "ShowUsages": 1673951381477,
+    "FindReplaceToggle": 1673868318220
+  }
+}]]></component>
+</application>
