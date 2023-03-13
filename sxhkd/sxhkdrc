@@ -6,9 +6,6 @@
 super + Return
 	kitty
 
-Shift_R + Ccedilla; @Shift_R + Ccedilla
-	xte "keydown Left" "keyup Left"
-
 # program launcher
 super + d
 	rofi -show drun
