@@ -13,12 +13,12 @@
     "RunOnceActivity.se.text.search": "true",
     "appcds.runOnSecondStart": "PS-223.8214.64-dd98c59cd71b3cb5af38d9bbfcbd6174f98ec5550d38a69c600f51c31a131b33",
     "ask.about.ctrl.y.shortcut.v2": "true",
-    "bundled.plugins.list.saved.version": "PS-223.8214.64",
+    "bundled.plugins.list.saved.version": "PS-223.8617.59",
     "completion.ml.enabled.notification.shown": "true",
     "evlsprt3.223": "23",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
-    "fontSizeToResetEditor": "12.0",
+    "fontSizeToResetEditor": "13.0",
     "gotit.previous.run": "PS-223.8214.64",
     "ide.memory.adjusted": "true",
     "input.method.disabler.muted": "true",
@@ -39,12 +39,12 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips"><![CDATA[{
-  "shownTips": {
-    "CtrlW": 1675210229675,
-    "CommentCode": 1675166769452,
-    "ShowUsages": 1673951381477,
-    "FindReplaceToggle": 1673868318220
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;CtrlW&quot;: 1675210229675,
+    &quot;CommentCode&quot;: 1675166769452,
+    &quot;ShowUsages&quot;: 1673951381477,
+    &quot;FindReplaceToggle&quot;: 1673868318220
   }
-}]]></component>
+}</component>
 </application>

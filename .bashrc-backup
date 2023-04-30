@@ -3,17 +3,18 @@
 #
 
 # If not running interactively, don't do anything
-#[[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias less='less --color=auto'
+#alias less='less --color=auto'
 
 alias la='ls -a'
 alias ll='la -l'
 alias lh='ll -s -h'
 
-wal -R -q
+#wal -R -q
 
-#PS1='[\u@\h \W]\$ '
+PS1='[\u@\h \W]\$ '
+
+[[ $- != *i* ]] && return
 

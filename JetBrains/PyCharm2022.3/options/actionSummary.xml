@@ -1,0 +1,61 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1680903363416" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1680903272779" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="38" l="1680903479944" />
+    </e>
+    <e n="EditorDown">
+      <i c="29" l="1680903505711" />
+    </e>
+    <e n="EditorEnter">
+      <i c="9" l="1680903482197" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="3" l="1680903367936" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="1" l="1680903471297" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="3" l="1680903499259" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="6" l="1680903500070" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1680903484831" />
+    </e>
+    <e n="EditorUp">
+      <i c="19" l="1680903496834" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="14" l="1680903497704" />
+    </e>
+    <e n="Resume">
+      <i c="1" l="1680903286934" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1680903495012" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1680903271358" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="1" l="1680903361015" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1680903509149" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1680903240395" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1680903277953" />
+    </e>
+  </component>
+</application>

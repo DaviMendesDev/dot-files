@@ -17,26 +17,31 @@
     "RunOnceActivity.se.text.search": "true",
     "SettingsSearchHistory": "comple",
     "SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION": "0.35",
-    "appcds.runOnSecondStart": "CL-223.8617.54-4e56dbb834cbe30d2c4c60a7ea32925618794711d54e288672f55bb8ca494534",
+    "appcds.runOnSecondStart": "CL-223.8836.42-0e3052b726d399fc7905412464297fd3ac5d66cefefe672088093b811a5cd1e7",
     "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "bundled.plugins.list.saved.version": "CL-223.8617.54",
+    "bundled.plugins.list.saved.version": "CL-223.8836.42",
     "clion.initialConfigPerformed": "true",
     "evlsprt3.223": "26",
-    "file.gist.reindex.count": "83",
-    "fileTypeChangedCounter": "1",
+    "file.gist.reindex.count": "111",
+    "fileTypeChangedCounter": "2",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
     "got.it.tooltip.reader.mode.got.it": "1",
-    "gotit.previous.run": "CL-223.8617.54",
+    "got.it.tooltip.rust.linter.on-the-fly.got.it": "1",
+    "gotit.previous.run": "CL-223.8836.42",
     "input.method.disabler.muted": "true",
+    "org.rust.lang.LAST_UPDATE": "1678843829927",
+    "org.rust.lang.LAST_VERSION": "0.4.190.5263-223",
     "previousColorScheme": "_@user_Light",
-    "registry.to.advanced.settings.migration.build": "CL-223.8617.54",
+    "registry.to.advanced.settings.migration.build": "CL-223.8836.42",
     "tasks.pass.word.conversion.enforced": "true",
     "ts.lib.d.ts.version": "4.8.4"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/lullaby/future-machines/device-drivers",
       "/lib/modules/6.1.4-arch1-1/build"
     ],
     "fileTypeDetectors": [
@@ -54,18 +59,18 @@
   <component name="ShownTips"><![CDATA[{
   "shownTips": {
     "GoToAction": 1675126706810,
-    "Rename": 1674811369368,
-    "CtrlW": 1674645774254,
-    "SpeedSearch": 1674723994431,
+    "SpeedSearch": 1681430033096,
+    "CtrlW": 1680903530790,
+    "Rename": 1681576682603,
     "QuickJavaDoc": 1675070159173,
     "SearchEverywhere": 1675729607956,
     "GoToDeclaration": 1674987015803,
     "EvaluateExpression": 1675298878672,
+    "FindReplaceToggle": 1679048577397,
+    "ShowUsages": 1679048576979,
     "QuickFix": 1675417708532,
-    "ShowUsages": 1674467851650,
-    "FindReplaceToggle": 1674586225726,
-    "GoToFile": 1675285520333,
-    "FindInPath": 1674376381949
+    "FindInPath": 1678876879218,
+    "GoToFile": 1675285520333
   }
 }]]></component>
 </application>

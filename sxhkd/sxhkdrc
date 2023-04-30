@@ -15,7 +15,7 @@ super + t
 
 # make sxhkd reload its configuration files:
 super + Escape
-	pkill -USR1 -x sxhkd
+	"pkill -USR1 -x sxhkd"
 
 super + b + r
 	setxkbmap br
@@ -132,10 +132,10 @@ super + {Left,Down,Up,Right}
 
 # Audio settings
 XF86AudioRaiseVolume
-	pactl set-sink-volume @DEFAULT_SINK@ +10%
+	pactl set-sink-volume @DEFAULT_SINK@ +3%
 
 XF86AudioLowerVolume
-	pactl set-sink-volume @DEFAULT_SINK@ -10%
+	pactl set-sink-volume @DEFAULT_SINK@ -3%
 
 XF86AudioMute
 	pactl set-sink-mute @DEFAULT_SINK@ toggle

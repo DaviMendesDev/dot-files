@@ -2,47 +2,61 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/CLionProjects/asm-c">
+        <entry key="$USER_HOME$/CLionProjects/rust-trainning">
           <value>
-            <RecentProjectMetaInfo frameTitle="asm-c – generic.c" projectWorkspaceId="2KS0qFCTHR08IlkTTisu9N33R9r">
-              <option name="activationTimestamp" value="1674214505731" />
+            <RecentProjectMetaInfo frameTitle="rust-trainning – main.rs" projectWorkspaceId="2N1uHuT7ebXEAYR8xbml2CoEpUW">
+              <option name="activationTimestamp" value="1678844354919" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="CL-223.8214.51" />
-              <option name="buildTimestamp" value="1671535305492" />
-              <frame x="12" y="52" width="1652" height="982" />
-              <option name="productionCode" value="CL" />
-              <option name="projectOpenTimestamp" value="1674214492905" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="/lib/modules/6.1.4-arch1-1/build">
-          <value>
-            <RecentProjectMetaInfo frameTitle="build – Makefile" projectWorkspaceId="2L3eYOCXEiT0SaOHjqeasy3uZEB">
-              <option name="activationTimestamp" value="1675105335835" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="CL-223.8214.51" />
-              <option name="buildTimestamp" value="1671535306004" />
-              <frame x="12" y="52" width="1652" height="982" />
-              <option name="productionCode" value="CL" />
-              <option name="projectOpenTimestamp" value="1675104239892" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/CLionProjects/device-drivers">
-          <value>
-            <RecentProjectMetaInfo frameTitle="device_drivers – main.c" opened="true" projectWorkspaceId="2KaZEqVZS7SSMBzNe6FQ7NqLcg8">
-              <option name="activationTimestamp" value="1675733874483" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="CL-223.8617.54" />
-              <option name="buildTimestamp" value="1674659494109" />
+              <option name="build" value="CL-223.8836.42" />
+              <option name="buildTimestamp" value="1678436578210" />
               <frame x="12" y="12" width="1652" height="1022" />
               <option name="productionCode" value="CL" />
-              <option name="projectOpenTimestamp" value="1675729601783" />
+              <option name="projectOpenTimestamp" value="1678843826339" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/cpp-trainning">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cpp_trainning – main.cpp" projectWorkspaceId="2N1vMe1wTdj92Bcr6iY2WfslsUd">
+              <option name="activationTimestamp" value="1678890407887" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.8836.42" />
+              <option name="buildTimestamp" value="1678436523568" />
+              <frame x="12" y="12" width="1652" height="1022" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1678876872847" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/c-trainning">
+          <value>
+            <RecentProjectMetaInfo frameTitle="c_trainning" projectWorkspaceId="2N3QhzMJpQLywtNUzhfgzrHlCr2">
+              <option name="activationTimestamp" value="1681430578467" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.8836.42" />
+              <option name="buildTimestamp" value="1678436558146" />
+              <frame x="12" y="12" width="1652" height="1022" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1681430026808" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/future-machines/device-drivers">
+          <value>
+            <RecentProjectMetaInfo frameTitle="device-drivers – simple-driver.c" opened="true" projectWorkspaceId="2OOTMGEXOqrYRfca9jbwUKvYHUy">
+              <option name="activationTimestamp" value="1681576698410" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.8836.42" />
+              <option name="buildTimestamp" value="1678436567443" />
+              <frame x="12" y="12" width="851" height="1022" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1681576676010" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CLionProjects/device-drivers" />
+    <option name="lastOpenedProject" value="$USER_HOME$/future-machines/device-drivers" />
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
   </component>
 </application>

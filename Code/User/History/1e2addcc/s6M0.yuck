@@ -1,0 +1,22 @@
+(defwindow toolbar
+    :monitor 0
+    :geometry (geometry :x "0%"
+                        :y "1%"
+                        :width "98%"
+                        :height "35px"
+                        :anchor "top center")
+    :stacking "fg"
+    :reserve (struts :distance "40px" :side "left")
+    :windowtype "dock"
+    :wm-ignore false
+    :class "rounded"
+    (greeter 
+        :text "Say hello!"
+        :name "Davi"))
+
+(defwidget greeter [?text name]
+    (box :orientation "horizontal"
+         :halign "center"
+      text
+      (button :onclick "notify-send 'Hello' 'Hello, ${name}'"
+        "Greet")))  

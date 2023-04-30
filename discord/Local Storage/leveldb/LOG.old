@@ -1,0 +1,20 @@
+2023/04/07-18:26:57.155 4d9 Reusing MANIFEST /home/lullaby/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/07-18:26:57.156 4d9 Recovering log #102
+2023/04/07-18:26:57.175 4d9 Level-0 table #104: started
+2023/04/07-18:26:57.234 4d9 Level-0 table #104: 1530011 bytes OK
+2023/04/07-18:26:57.271 4d9 Delete type=0 #102
+2023/04/07-18:31:09.115 4d9 Level-0 table #107: started
+2023/04/07-18:31:09.144 4d9 Level-0 table #107: 1524736 bytes OK
+2023/04/07-18:31:09.147 4d9 Delete type=0 #105
+2023/04/07-19:05:03.569 4d9 Level-0 table #109: started
+2023/04/07-19:05:03.574 4d9 Level-0 table #109: 11909 bytes OK
+2023/04/07-19:05:03.577 4d9 Delete type=0 #106
+2023/04/07-19:05:03.578 4d9 Compacting 4@0 + 1@1 files
+2023/04/07-19:05:03.610 4d9 Generated table #110@0: 53 keys, 1536569 bytes
+2023/04/07-19:05:03.610 4d9 Compacted 4@0 + 1@1 files => 1536569 bytes
+2023/04/07-19:05:03.613 4d9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/07-19:05:03.613 4d9 Delete type=2 #101
+2023/04/07-19:05:03.613 4d9 Delete type=2 #107
+2023/04/07-19:05:03.613 4d9 Delete type=2 #99
+2023/04/07-19:05:03.614 4d9 Delete type=2 #109
+2023/04/07-19:05:03.614 4d9 Delete type=2 #104

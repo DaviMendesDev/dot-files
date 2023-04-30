@@ -1,0 +1,33 @@
+(defpoll TIME :interval "5s" `date +'%I:%M %p'`)
+(defpoll DATE :interval "5s" `date +'%A, %B %d'`)
+(defpoll WMS :interval "1s" `wmctrl -d | grep '*' | cut -d ' ' -f13`)
+
+(defpoll ICON :interval "15m" `scripts/weather_info.sh --icon`)
+(defpoll TEMP :interval "15m" `scripts/weather_info.sh --temp`)
+(defpoll HEX :interval "15m" `scripts/weather_info.sh --hex`)
+
+(defpoll PLY_TITLE :interval "5s" `playerctl metadata title`)
+(defpoll PLY_ARTIST :interval "5s" `playerctl metadata artist`)
+
+(defwindow toolbar
+    :monitor 0
+    :geometry (geometry :x "0%"
+                        :y "0%"
+                        :width "98%"
+                        :height "35px"
+                        :anchor "top center")
+    :stacking "fg"
+    :reserve (struts :distance "40px" :side "left")
+    :windowtype "dock"
+    :wm-ignore false
+        (player)
+)
+
+
+(defwidget player []
+    (box :orientation "vertical" :halign "center"
+        (PLY_TITLE PLY_ARTIST)
+))
+
+
+

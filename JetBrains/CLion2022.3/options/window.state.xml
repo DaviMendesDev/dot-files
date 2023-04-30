@@ -4,8 +4,22 @@
     <size key="CreateCMakeListWizard.topPanel.0.0.1680.1050" width="640" height="476" />
     <size key="CreateCMakeListWizard.bottomPanel.0.0.1680.1050" width="640" height="204" />
     <size key="find.popup.0.0.1680.1050" width="672" height="822" />
+    <size key="GridCell.Tab.0.left.0.0.1680.1050" width="1570" height="295" />
+    <size key="GridCell.Tab.0.center.0.0.1680.1050" width="1570" height="295" />
+    <size key="GridCell.Tab.0.right.0.0.1680.1050" width="1570" height="295" />
+    <size key="GridCell.Tab.0.bottom.0.0.1680.1050" width="1570" height="295" />
   </component>
   <component name="WindowManager">
-    <frame x="12" y="12" width="1652" height="1022" />
+    <frame x="12" y="12" width="851" height="1022" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="621" y="281" width="424" height="454" key="FileChooserDialogImpl" timestamp="1678843787695">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="621" y="281" width="424" height="454" key="FileChooserDialogImpl/0.0.1680.1050" timestamp="1678843787695" />
+    <state x="437" y="523" width="851" height="1022" key="WELCOME_SCREEN" timestamp="1678843823326">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="437" y="523" width="851" height="1022" key="WELCOME_SCREEN/0.0.1680.1050" timestamp="1678843823326" />
   </component>
 </application>

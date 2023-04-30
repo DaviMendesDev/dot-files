@@ -1,0 +1,4 @@
+2023-03-13 01:50:50.655 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lullaby/.vscode-oss/extensions
+2023-03-13 01:50:50.958 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/lullaby/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/lullaby/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-03-13 01:50:50.958 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/lullaby/.vscode-oss/extensions
+2023-03-13 01:50:51.160 [info] Starting worker process with pid 19584 (type: fileWatcher, window: 1).

@@ -2,8 +2,17 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/.config/eww" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/my-market-helper" value="true" />
         <entry key="$USER_HOME$/WebstormProjects/vue-notes" value="true" />
       </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/WebstormProjects" />
+      </list>
     </option>
   </component>
 </application>

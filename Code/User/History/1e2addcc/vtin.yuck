@@ -1,0 +1,35 @@
+(defvar textHello "Say Hello!")
+
+(defwindow toolbar
+    :monitor 0
+    :geometry (geometry :x "0%"
+                        :y "1%"
+                        :width "98%"
+                        :height "35px"
+                        :anchor "top center")
+    :stacking "fg"
+    :reserve (struts :distance "40px" :side "left")
+    :windowtype "dock"
+    :wm-ignore false
+    :class "rounded"
+    (greeter 
+        :text "Hellloo"
+        :name "Davi"))
+
+(defwidget greeter [?text name]
+    (box :orientation "horizontal"
+         :halign "center"
+      time
+      (button :onclick "notify-send 'Hello' 'Hello, ${name}'"
+        "Greet")))  
+
+
+(defvar time-visible true)   ; for :run-while property of below variable
+    ; when this turns true, the polling starts and
+    ; var gets updated with given interval
+
+(defpoll time 
+    :interval "1s"
+    :initial "initial-value"  ; optional, defaults to poll at startup
+    :run-while time-visible   ; optional, defaults to 'true'
+    `date +%H:%M:%S`)

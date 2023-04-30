@@ -1,0 +1,26 @@
+2023-04-23 12:06:53.831 [info] [SharedProcess] using utility process
+2023-04-23 12:06:53.924 [info] update#setState idle
+2023-04-23 12:06:55.864 [info] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2023-04-23 12:06:55.873 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-04-23 12:06:55.905 [info] [UtilityProcess type: shared-process, pid: 31374]: successfully created
+2023-04-23 12:06:55.906 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 31375]: successfully created
+2023-04-23 12:06:56.109 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-04-23 12:06:56.119 [info] [UtilityProcess id: 1, type: extensionHost, pid: 31394]: successfully created
+2023-04-23 12:07:23.926 [info] update#setState checking for updates
+2023-04-23 12:07:24.126 [info] update#setState idle
+2023-04-23 13:07:23.951 [info] update#setState checking for updates
+2023-04-23 13:07:24.541 [info] update#setState idle
+2023-04-23 14:07:23.977 [info] update#setState checking for updates
+2023-04-23 14:07:24.584 [info] update#setState idle
+2023-04-23 15:07:23.984 [info] update#setState checking for updates
+2023-04-23 15:07:24.591 [info] update#setState idle
+2023-04-23 16:07:24.007 [info] update#setState checking for updates
+2023-04-23 16:07:24.615 [info] update#setState idle
+2023-04-23 17:07:24.030 [info] update#setState checking for updates
+2023-04-23 17:07:24.767 [info] update#setState idle
+2023-04-23 17:17:45.750 [info] [UtilityProcess id: 1, type: extensionHost, pid: 31394]: waiting to exit...
+2023-04-23 17:17:45.750 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 31375]: attempting to kill the process...
+2023-04-23 17:17:45.751 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 31375]: successfully killed the process
+2023-04-23 17:17:45.757 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 31375]: received exit event with code 0
+2023-04-23 17:17:45.768 [info] [UtilityProcess id: 1, type: extensionHost, pid: 31394]: received exit event with code 0
+2023-04-23 17:17:45.768 [info] Extension host with pid 31394 exited with code: 0, signal: unknown.

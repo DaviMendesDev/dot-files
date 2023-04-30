@@ -1,0 +1,525 @@
+App {
+    scope_graph: ScopeGraph {
+        graph: ScopeGraphInternal {
+            last_index: ScopeIndex(101),
+            scopes: {
+                ScopeIndex(98): Scope {
+                    name: "global",
+                    ancestor: None,
+                    data: {
+                        "PLY_TITLE": "Asmongold plays Diablo 4 Necromancer for the First Time",
+                        "EWW_CONFIG_DIR": "/home/lullaby/.config/eww",
+                        "TEMP": "",
+                        "DATE": "",
+                        "EWW_DISK": "{ "/": {"name": "/dev/sda3", "total": 632964939776, "free": 554994851840, "used": 77970087936, "used_perc": 12.318233} }",
+                        "PLY_ARTIST": "Asmongold Gaming",
+                        "HEX": "",
+                        "EWW_EXECUTABLE": "/usr/bin/eww",
+                        "TIME": "",
+                        "EWW_NET": "{ "lo": { "NET_UP": 0, "NET_DOWN": 0 },"enp2s0": { "NET_UP": 133291, "NET_DOWN": 4790526 },"wlp1s7": { "NET_UP": 0, "NET_DOWN": 0 } }",
+                        "EWW_CMD": ""/usr/bin/eww" --config "/home/lullaby/.config/eww"",
+                        "ICON": "",
+                        "WMS": "",
+                        "EWW_TEMPS": "{ "CORETEMP_CORE_0": 28,"CORETEMP_CORE_1": 27,"CORETEMP_CORE_10": 32,"CORETEMP_CORE_2": 30,"CORETEMP_CORE_8": 30,"CORETEMP_CORE_9": 24 }",
+                        "PLY_COVER": "",
+                        "EWW_CPU": "{ "cores": [{"core": "cpu0", "freq": 2261, "usage": 2},{"core": "cpu1", "freq": 2261, "usage": 2},{"core": "cpu2", "freq": 1940, "usage": 2},{"core": "cpu3", "freq": 2260, "usage": 3},{"core": "cpu4", "freq": 2261, "usage": 3},{"core": "cpu5", "freq": 2261, "usage": 4},{"core": "cpu6", "freq": 2261, "usage": 4},{"core": "cpu7", "freq": 2261, "usage": 3},{"core": "cpu8", "freq": 2261, "usage": 3},{"core": "cpu9", "freq": 2262, "usage": 3},{"core": "cpu10", "freq": 2261, "usage": 4},{"core": "cpu11", "freq": 2261, "usage": 3}], "avg": 2.9965026 }",
+                        "EWW_RAM": "{"total_mem": 16762634240, "free_mem": 12138401792, "total_swap": 0, "free_swap": 0, "available_mem": 13044174848, "used_mem": 3718459400, "used_mem_perc": 22.183025}",
+                        "EWW_BATTERY": "",
+                    },
+                    listeners: {},
+                    node_index: ScopeIndex(98),
+                },
+                ScopeIndex(99): Scope {
+                    name: "toolbar",
+                    ancestor: Some(
+                        ScopeIndex(98),
+                    ),
+                    data: {},
+                    listeners: {},
+                    node_index: ScopeIndex(99),
+                },
+                ScopeIndex(100): Scope {
+                    name: "player",
+                    ancestor: Some(
+                        ScopeIndex(99),
+                    ),
+                    data: {},
+                    listeners: {
+                        "PLY_ARTIST": [
+                            Listener {
+                                needed_variables: [
+                                    "PLY_ARTIST",
+                                ],
+                                f: "function",
+                            },
+                        ],
+                        "PLY_COVER": [
+                            Listener {
+                                needed_variables: [
+                                    "PLY_COVER",
+                                ],
+                                f: "function",
+                            },
+                        ],
+                        "PLY_TITLE": [
+                            Listener {
+                                needed_variables: [
+                                    "PLY_TITLE",
+                                ],
+                                f: "function",
+                            },
+                        ],
+                    },
+                    node_index: ScopeIndex(100),
+                },
+            },
+            hierarchy_relations: OneToNElementsMap {
+                child_to_parent: {
+                    ScopeIndex(100): (
+                        ScopeIndex(99),
+                        [],
+                    ),
+                    ScopeIndex(99): (
+                        ScopeIndex(98),
+                        [],
+                    ),
+                },
+                parent_to_children: {
+                    ScopeIndex(99): {
+                        ScopeIndex(100),
+                    },
+                    ScopeIndex(98): {
+                        ScopeIndex(99),
+                    },
+                },
+            },
+            inheritance_relations: OneToNElementsMap {
+                child_to_parent: {
+                    ScopeIndex(100): (
+                        ScopeIndex(98),
+                        Inherits {
+                            references: {
+                                "PLY_COVER",
+                                "PLY_ARTIST",
+                                "PLY_TITLE",
+                            },
+                        },
+                    ),
+                    ScopeIndex(99): (
+                        ScopeIndex(98),
+                        Inherits {
+                            references: {},
+                        },
+                    ),
+                },
+                parent_to_children: {
+                    ScopeIndex(98): {
+                        ScopeIndex(100),
+                        ScopeIndex(99),
+                    },
+                },
+            },
+        },
+        root_index: ScopeIndex(98),
+        event_sender: UnboundedSender {
+            chan: Tx {
+                inner: Chan {
+                    tx: Tx {
+                        block_tail: 0x0000561473e77ed0,
+                        tail_position: 31,
+                    },
+                    semaphore: 0,
+                    rx_waker: AtomicWaker,
+                    tx_count: 2,
+                    rx_fields: "...",
+                },
+            },
+        },
+    },
+    eww_config: EwwConfig {
+        widgets: {
+            "player": WidgetDefinition {
+                name: "player",
+                expected_args: [],
+                widget: Basic(
+                    BasicWidgetUse {
+                        name: "box",
+                        attrs: Attributes {
+                            span: 1038..1100,
+                            attrs: {
+                                "class": AttrEntry {
+                                    key_span: 1048..1054,
+                                    value: "rounded-md bg-neutral-500",
+                                },
+                            },
+                        },
+                        children: [
+                            Basic(
+                                BasicWidgetUse {
+                                    name: "label",
+                                    attrs: Attributes {
+                                        span: 1091..1100,
+                                        attrs: {
+                                            "text": AttrEntry {
+                                                key_span: 1091..1100,
+                                                value: {PLY_TITLE},
+                                            },
+                                        },
+                                    },
+                                    children: [],
+                                    span: 1091..1100,
+                                    name_span: 1091..1091,
+                                },
+                            ),
+                            Basic(
+                                BasicWidgetUse {
+                                    name: "label",
+                                    attrs: Attributes {
+                                        span: 1101..1111,
+                                        attrs: {
+                                            "text": AttrEntry {
+                                                key_span: 1101..1111,
+                                                value: {PLY_ARTIST},
+                                            },
+                                        },
+                                    },
+                                    children: [],
+                                    span: 1101..1111,
+                                    name_span: 1101..1101,
+                                },
+                            ),
+                            Basic(
+                                BasicWidgetUse {
+                                    name: "label",
+                                    attrs: Attributes {
+                                        span: 1112..1121,
+                                        attrs: {
+                                            "text": AttrEntry {
+                                                key_span: 1112..1121,
+                                                value: {PLY_COVER},
+                                            },
+                                        },
+                                    },
+                                    children: [],
+                                    span: 1112..1121,
+                                    name_span: 1112..1112,
+                                },
+                            ),
+                        ],
+                        span: 1034..1198,
+                        name_span: 1035..1038,
+                    },
+                ),
+                span: 1009..1199,
+                args_span: 1027..1029,
+            },
+        },
+        windows: {
+            "toolbar": WindowDefinition {
+                name: "toolbar",
+                geometry: Some(
+                    WindowGeometry {
+                        anchor_point: AnchorPoint {
+                            x: CENTER,
+                            y: START,
+                        },
+                        offset: CoordsWithUnits(0, 0),
+                        size: CoordsWithUnits(98, 20),
+                    },
+                ),
+                stacking: Foreground,
+                monitor: Some(
+                    Numeric(
+                        0,
+                    ),
+                ),
+                widget: Basic(
+                    BasicWidgetUse {
+                        name: "box",
+                        attrs: Attributes {
+                            span: 927..1003,
+                            attrs: {
+                                "class": AttrEntry {
+                                    key_span: 928..934,
+                                    value: "bg-transparent",
+                                },
+                                "orientation": AttrEntry {
+                                    key_span: 952..964,
+                                    value: "horizontal",
+                                },
+                                "halign": AttrEntry {
+                                    key_span: 978..985,
+                                    value: "center",
+                                },
+                            },
+                        },
+                        children: [
+                            Basic(
+                                BasicWidgetUse {
+                                    name: "player",
+                                    attrs: Attributes {
+                                        span: 1002..1002,
+                                        attrs: {},
+                                    },
+                                    children: [],
+                                    span: 995..1003,
+                                    name_span: 996..1002,
+                                },
+                            ),
+                        ],
+                        span: 923..1004,
+                        name_span: 924..927,
+                    },
+                ),
+                resizable: true,
+                backend_options: BackendWindowOptions {
+                    wm_ignore: false,
+                    sticky: true,
+                    window_type: Dock,
+                    struts: StrutDefinition {
+                        side: Top,
+                        dist: 10,
+                    },
+                },
+            },
+        },
+        initial_variables: {
+            "EWW_EXECUTABLE": "/usr/bin/eww",
+            "EWW_CONFIG_DIR": "/home/lullaby/.config/eww",
+            "EWW_CMD": ""/usr/bin/eww" --config "/home/lullaby/.config/eww"",
+        },
+        script_vars: {
+            "TEMP": Poll(
+                PollScriptVar {
+                    name: "TEMP",
+                    run_while_expr: "true",
+                    command: Shell(
+                        264..296,
+                        "scripts/weather_info.sh --temp",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 900s,
+                    name_span: 243..247,
+                },
+            ),
+            "ICON": Poll(
+                PollScriptVar {
+                    name: "ICON",
+                    run_while_expr: "true",
+                    command: Shell(
+                        200..232,
+                        "scripts/weather_info.sh --icon",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 900s,
+                    name_span: 179..183,
+                },
+            ),
+            "TIME": Poll(
+                PollScriptVar {
+                    name: "TIME",
+                    run_while_expr: "true",
+                    command: Shell(
+                        29..47,
+                        "date +'%I:%M %p'",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 5s,
+                    name_span: 9..13,
+                },
+            ),
+            "EWW_CPU": Poll(
+                PollScriptVar {
+                    name: "EWW_CPU",
+                    run_while_expr: "true",
+                    command: Function(
+                        0x0000561472480740,
+                    ),
+                    initial_value: None,
+                    interval: 2s,
+                    name_span: DUMMY,
+                },
+            ),
+            "PLY_ARTIST": Poll(
+                PollScriptVar {
+                    name: "PLY_ARTIST",
+                    run_while_expr: "true",
+                    command: Shell(
+                        458..485,
+                        "playerctl metadata artist",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 5s,
+                    name_span: 432..442,
+                },
+            ),
+            "DATE": Poll(
+                PollScriptVar {
+                    name: "DATE",
+                    run_while_expr: "true",
+                    command: Shell(
+                        78..97,
+                        "date +'%A, %B %d'",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 5s,
+                    name_span: 58..62,
+                },
+            ),
+            "EWW_BATTERY": Poll(
+                PollScriptVar {
+                    name: "EWW_BATTERY",
+                    run_while_expr: "true",
+                    command: Function(
+                        0x00005614724805d0,
+                    ),
+                    initial_value: None,
+                    interval: 2s,
+                    name_span: DUMMY,
+                },
+            ),
+            "EWW_NET": Poll(
+                PollScriptVar {
+                    name: "EWW_NET",
+                    run_while_expr: "true",
+                    command: Function(
+                        0x0000561472480530,
+                    ),
+                    initial_value: None,
+                    interval: 2s,
+                    name_span: DUMMY,
+                },
+            ),
+            "EWW_DISK": Poll(
+                PollScriptVar {
+                    name: "EWW_DISK",
+                    run_while_expr: "true",
+                    command: Function(
+                        0x00005614724804e0,
+                    ),
+                    initial_value: None,
+                    interval: 2s,
+                    name_span: DUMMY,
+                },
+            ),
+            "WMS": Poll(
+                PollScriptVar {
+                    name: "WMS",
+                    run_while_expr: "true",
+                    command: Shell(
+                        127..167,
+                        "wmctrl -d | grep '*' | cut -d ' ' -f13",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 1s,
+                    name_span: 108..111,
+                },
+            ),
+            "EWW_RAM": Poll(
+                PollScriptVar {
+                    name: "EWW_RAM",
+                    run_while_expr: "true",
+                    command: Function(
+                        0x0000561472480490,
+                    ),
+                    initial_value: None,
+                    interval: 2s,
+                    name_span: DUMMY,
+                },
+            ),
+            "EWW_TEMPS": Poll(
+                PollScriptVar {
+                    name: "EWW_TEMPS",
+                    run_while_expr: "true",
+                    command: Function(
+                        0x0000561472480580,
+                    ),
+                    initial_value: None,
+                    interval: 2s,
+                    name_span: DUMMY,
+                },
+            ),
+            "HEX": Poll(
+                PollScriptVar {
+                    name: "HEX",
+                    run_while_expr: "true",
+                    command: Shell(
+                        327..358,
+                        "scripts/weather_info.sh --hex",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 900s,
+                    name_span: 307..310,
+                },
+            ),
+            "PLY_COVER": Poll(
+                PollScriptVar {
+                    name: "PLY_COVER",
+                    run_while_expr: "true",
+                    command: Shell(
+                        521..577,
+                        "playerctl metadata mpris:artUrl | sed \"s/^file:////\"",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 5s,
+                    name_span: 496..505,
+                },
+            ),
+            "PLY_TITLE": Poll(
+                PollScriptVar {
+                    name: "PLY_TITLE",
+                    run_while_expr: "true",
+                    command: Shell(
+                        395..421,
+                        "playerctl metadata title",
+                    ),
+                    initial_value: Some(
+                        "",
+                    ),
+                    interval: 5s,
+                    name_span: 370..379,
+                },
+            ),
+        },
+        run_while_mentions: {},
+    },
+    open_windows: {
+        "toolbar": EwwWindow {
+            name: "toolbar",
+            scope_index: ScopeIndex(99),
+            gtk_window: Window {
+                inner: ObjectRef {
+                    inner: 0x00005614741c55a0,
+                    type: GtkWindow,
+                },
+            },
+            destroy_event_handler_id: Some(
+                SignalHandlerId(
+                    8510,
+                ),
+            ),
+        },
+    },
+    failed_windows: {},
+    paths: EwwPaths {
+        log_file: "/home/lullaby/.cache/eww_85afb8f12732b8ad.log",
+        ipc_socket_file: "/run/user/972/eww-server_85afb8f12732b8ad",
+        config_dir: "/home/lullaby/.config/eww",
+    },
+}

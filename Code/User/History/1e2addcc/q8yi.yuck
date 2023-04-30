@@ -1,0 +1,12 @@
+(defwindow toolbar
+    :monitor 0
+    :geometry (geometry :x "0%"
+                        :y "0%"
+                        :width "2%"
+                        :height "98%"
+                        :anchor "left top")
+    :stacking "fg"
+    :reserve (struts :distance "40px" :side "left")
+    :windowtype "dock"
+    :wm-ignore false
+"Hey guy, how aei yo doin?")

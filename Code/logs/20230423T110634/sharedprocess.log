@@ -1,0 +1,10 @@
+2023-04-23 11:06:37.530 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lullaby/.vscode/extensions
+2023-04-23 11:06:38.146 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/lullaby/.vscode/extensions Unable to create file 'vscode-userdata:/home/lullaby/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-04-23 11:06:38.146 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/lullaby/.vscode/extensions
+2023-04-23 11:06:50.683 [info] Getting Manifest... eww-yuck.yuck
+2023-04-23 11:06:50.700 [info] Installing extension: eww-yuck.yuck
+2023-04-23 11:06:51.814 [warning] Extension signature verification failed with error 'UnknownError': eww-yuck.yuck
+2023-04-23 11:06:52.016 [info] Extracted extension to /home/lullaby/.vscode/extensions/.631c8d91-3ab7-424d-a758-55d4e1e6bbe2: eww-yuck.yuck
+2023-04-23 11:06:52.024 [info] Renamed to /home/lullaby/.vscode/extensions/eww-yuck.yuck-0.0.3
+2023-04-23 11:06:52.027 [info] Extracting extension completed. eww-yuck.yuck
+2023-04-23 11:06:52.043 [info] Extension installed successfully: eww-yuck.yuck

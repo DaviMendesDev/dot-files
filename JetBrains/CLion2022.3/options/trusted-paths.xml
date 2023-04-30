@@ -3,9 +3,20 @@
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
         <entry key="$USER_HOME$/CLionProjects/asm-c" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/c-trainning" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/cpp-trainning" value="true" />
         <entry key="$USER_HOME$/CLionProjects/device-drivers" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/rust-trainning" value="true" />
+        <entry key="$USER_HOME$/future-machines/device-drivers" value="true" />
         <entry key="/lib/modules/6.1.4-arch1-1/build" value="true" />
       </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/future-machines" />
+      </list>
     </option>
   </component>
 </application>

@@ -1,0 +1,134 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="pythonProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="1" lastUsed="1680903262904" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1680903262906" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.main" executorId="Run" />
+      <element setting="Python.main" executorId="Debug" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25030267" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33023483" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.39970645" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1606" height="309" key="GridCell.Tab.0.bottom" timestamp="1680903509255">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1606" height="309" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1680903509255" />
+    <state width="1606" height="309" key="GridCell.Tab.0.center" timestamp="1680903509255">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1606" height="309" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1680903509255" />
+    <state width="1606" height="309" key="GridCell.Tab.0.left" timestamp="1680903509255">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1606" height="309" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1680903509255" />
+    <state width="1606" height="309" key="GridCell.Tab.0.right" timestamp="1680903509255">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1606" height="309" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1680903509255" />
+    <state width="1606" height="380" key="GridCell.Tab.1.bottom" timestamp="1680903509234">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1606" height="380" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1680903509234" />
+    <state width="1606" height="380" key="GridCell.Tab.1.center" timestamp="1680903509234">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1606" height="380" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1680903509234" />
+    <state width="1606" height="380" key="GridCell.Tab.1.left" timestamp="1680903509234">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1606" height="380" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1680903509234" />
+    <state width="1606" height="380" key="GridCell.Tab.1.right" timestamp="1680903509234">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1606" height="380" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1680903509234" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

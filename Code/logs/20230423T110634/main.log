@@ -1,0 +1,24 @@
+2023-04-23 11:06:34.311 [info] [SharedProcess] using utility process
+2023-04-23 11:06:34.311 [info] update#setState idle
+2023-04-23 11:06:36.748 [info] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2023-04-23 11:06:36.757 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-04-23 11:06:36.766 [info] [UtilityProcess type: shared-process, pid: 28862]: successfully created
+2023-04-23 11:06:36.767 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 28863]: successfully created
+2023-04-23 11:06:36.876 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-04-23 11:06:36.886 [info] [UtilityProcess id: 1, type: extensionHost, pid: 28894]: successfully created
+2023-04-23 11:07:04.281 [info] update#setState checking for updates
+2023-04-23 11:07:04.479 [info] update#setState idle
+2023-04-23 11:07:10.468 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 28863]: attempting to kill the process...
+2023-04-23 11:07:10.469 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 28863]: successfully killed the process
+2023-04-23 11:07:10.471 [info] [UtilityProcess id: 1, type: extensionHost, pid: 28894]: received exit event with code 0
+2023-04-23 11:07:10.471 [info] Extension host with pid 28894 exited with code: 0, signal: unknown.
+2023-04-23 11:07:10.478 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 28863]: received exit event with code 0
+2023-04-23 11:07:11.842 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-04-23 11:07:11.853 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 29017]: successfully created
+2023-04-23 11:07:11.987 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-04-23 11:07:11.997 [info] [UtilityProcess id: 2, type: extensionHost, pid: 29027]: successfully created
+2023-04-23 11:09:33.854 [info] [UtilityProcess id: 2, type: extensionHost, pid: 29027]: received exit event with code 0
+2023-04-23 11:09:33.854 [info] Extension host with pid 29027 exited with code: 0, signal: unknown.
+2023-04-23 11:09:33.882 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 29017]: attempting to kill the process...
+2023-04-23 11:09:33.883 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 29017]: successfully killed the process
+2023-04-23 11:09:33.891 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 29017]: received exit event with code 0

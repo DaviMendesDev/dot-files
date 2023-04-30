@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "postcss-loader": "^7.2.4",
+    "sass": "^1.62.0",
+    "tailwindcss": "^3.3.1"
+  },
+  "scripts": {
+    "dev": "npx tailwindcss -o ./eww.scss",
+    "build:css": "sass --watch eww.scss:eww.css --style=compressed && postcss eww.css -o output.css"
+  }
+}
