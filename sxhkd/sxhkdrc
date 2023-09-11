@@ -13,6 +13,13 @@ super + d
 super + t
 	rofi -show run
 
+super + z
+	if [ -z "$(bspc query -N -n focused.floating)" ]; then \
+		bspc node focused -t floating; \
+	else \
+        	bspc node focused -t tiled; \
+	fi
+
 # make sxhkd reload its configuration files:
 super + Escape
 	"pkill -USR1 -x sxhkd"
@@ -52,7 +59,7 @@ super + g
 #
 
 # set the window state
-super + {t,shift + t,s,f}
+super + {alt + t,shift + t,s,f}
 	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
 
 # set the node flags
