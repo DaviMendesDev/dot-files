@@ -1,0 +1,21 @@
+2023-09-07 11:23:23.075 [info] [perf] Render performance baseline is 61ms
+2023-09-07 11:23:36.181 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-09-07 11:23:39.857 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/lullaby/Projects/C/kernel-driver/first/main.c 
+2023-09-07 11:23:43.545 [info] [perf] Render performance baseline is 61ms
+2023-09-07 11:26:19.419 [info] [perf] Render performance baseline is 61ms
+2023-09-07 12:11:18.334 [info] [onWill-handler] applying additional workspace edit from extensions ["Vetur"]
+2023-09-07 12:11:29.265 [info] [onWill-handler] applying additional workspace edit from extensions ["Vetur"]
+2023-09-07 12:11:40.409 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts' (Error: File Modified Since) file:///home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts
+2023-09-07 12:11:42.427 [error] Unable to read file '/home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts' (Error: File not modified since): Error: Unable to read file '/home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts' (Error: File not modified since)
+    at o.w (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:627:16316)
+    at o.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:627:16204)
+    at async b.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2319:36931)
+    at async b.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2319:36685)
+    at async er.zb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2308:29120)
+    at async er.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2308:27567)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2319:32834
+2023-09-07 12:59:44.676 [error] Request textDocument/codeAction failed with message: Debug Failure. False expression: should not delete whole source file: Error: Request textDocument/codeAction failed with message: Debug Failure. False expression: should not delete whole source file
+	at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+	at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+	at Immediate.<anonymous> (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+	at process.processImmediate (node:internal/timers:466:21)

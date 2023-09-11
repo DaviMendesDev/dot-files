@@ -1,11 +1,12 @@
+* {
+	font-family: "Jetbrains Mono", "roboto";
+}
+
+.main-box {
+	padding: 10px 15px;
+}
+
 .rounded-md {
     border-radius: .75rem;
 }
 
-.bg-neutral-500 {
-    background-color: #444;
-}
-
-.bg-transparent {
-    background-color: transparent;
-}

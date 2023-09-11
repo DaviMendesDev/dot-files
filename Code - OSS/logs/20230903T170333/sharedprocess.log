@@ -1,0 +1,70 @@
+2023-09-03 17:04:39.466 [info] Getting Manifest... franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:39.915 [info] Installing extension: franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:40.205 [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+2023-09-03 17:04:40.537 [info] Getting Manifest... cheshirekow.cmake-format
+2023-09-03 17:04:40.864 [info] Getting Manifest... bbenoist.doxygen
+2023-09-03 17:04:41.192 [info] Getting Manifest... cschlosser.doxdocgen
+2023-09-03 17:04:41.520 [info] Getting Manifest... twxs.cmake
+2023-09-03 17:04:41.848 [info] Getting Manifest... vadimcn.vscode-lldb
+2023-09-03 17:04:42.177 [info] Getting Manifest... franneck94.c-cpp-runner
+2023-09-03 17:04:42.506 [info] Getting Manifest... franneck94.vscode-c-cpp-config
+2023-09-03 17:04:42.839 [info] Getting Manifest... 13xforever.language-x86-64-assembly
+2023-09-03 17:04:43.301 [info] Installing extension: jeff-hykin.better-cpp-syntax franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:43.302 [info] Installing extension: cheshirekow.cmake-format franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:43.302 [info] Installing extension: bbenoist.doxygen franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:43.302 [info] Installing extension: cschlosser.doxdocgen franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:43.303 [info] Installing extension: twxs.cmake franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:43.303 [info] Installing extension: vadimcn.vscode-lldb franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:43.303 [info] Installing extension: franneck94.c-cpp-runner franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:43.304 [info] Installing extension: franneck94.vscode-c-cpp-config franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:43.304 [info] Installing extension: 13xforever.language-x86-64-assembly franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:44.701 [info] Extension signature verification is not done: jeff-hykin.better-cpp-syntax
+2023-09-03 17:04:44.755 [info] Extension signature verification is not done: bbenoist.doxygen
+2023-09-03 17:04:44.795 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/bbenoist.doxygen-1.0.0-universal: bbenoist.doxygen
+2023-09-03 17:04:44.803 [info] Renamed to /home/lullaby/.vscode-oss/extensions/bbenoist.doxygen-1.0.0-universal
+2023-09-03 17:04:44.807 [info] Extracting extension completed. bbenoist.doxygen
+2023-09-03 17:04:44.815 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/jeff-hykin.better-cpp-syntax-1.21.1-universal: jeff-hykin.better-cpp-syntax
+2023-09-03 17:04:44.821 [info] Renamed to /home/lullaby/.vscode-oss/extensions/jeff-hykin.better-cpp-syntax-1.21.1-universal
+2023-09-03 17:04:44.823 [info] Extracting extension completed. jeff-hykin.better-cpp-syntax
+2023-09-03 17:04:44.859 [info] Extension signature verification is not done: 13xforever.language-x86-64-assembly
+2023-09-03 17:04:44.883 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/13xforever.language-x86-64-assembly-3.1.4-universal: 13xforever.language-x86-64-assembly
+2023-09-03 17:04:44.888 [info] Renamed to /home/lullaby/.vscode-oss/extensions/13xforever.language-x86-64-assembly-3.1.4-universal
+2023-09-03 17:04:44.896 [info] Extracting extension completed. 13xforever.language-x86-64-assembly
+2023-09-03 17:04:44.919 [info] Extension signature verification is not done: vadimcn.vscode-lldb
+2023-09-03 17:04:44.945 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/vadimcn.vscode-lldb-1.9.2-universal: vadimcn.vscode-lldb
+2023-09-03 17:04:44.954 [info] Renamed to /home/lullaby/.vscode-oss/extensions/vadimcn.vscode-lldb-1.9.2-universal
+2023-09-03 17:04:44.957 [info] Extracting extension completed. vadimcn.vscode-lldb
+2023-09-03 17:04:45.326 [info] Extension signature verification is not done: cheshirekow.cmake-format
+2023-09-03 17:04:45.378 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/cheshirekow.cmake-format-0.6.13-universal: cheshirekow.cmake-format
+2023-09-03 17:04:45.384 [info] Renamed to /home/lullaby/.vscode-oss/extensions/cheshirekow.cmake-format-0.6.13-universal
+2023-09-03 17:04:45.387 [info] Extracting extension completed. cheshirekow.cmake-format
+2023-09-03 17:04:45.695 [info] Extension signature verification is not done: cschlosser.doxdocgen
+2023-09-03 17:04:46.553 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/cschlosser.doxdocgen-1.4.0-universal: cschlosser.doxdocgen
+2023-09-03 17:04:46.561 [info] Renamed to /home/lullaby/.vscode-oss/extensions/cschlosser.doxdocgen-1.4.0-universal
+2023-09-03 17:04:46.562 [info] Extracting extension completed. cschlosser.doxdocgen
+2023-09-03 17:04:47.267 [info] Extension signature verification is not done: twxs.cmake
+2023-09-03 17:04:47.521 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/twxs.cmake-0.0.17-universal: twxs.cmake
+2023-09-03 17:04:47.532 [info] Renamed to /home/lullaby/.vscode-oss/extensions/twxs.cmake-0.0.17-universal
+2023-09-03 17:04:47.534 [info] Extracting extension completed. twxs.cmake
+2023-09-03 17:04:48.399 [info] Extension signature verification is not done: franneck94.vscode-c-cpp-config
+2023-09-03 17:04:48.433 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/franneck94.vscode-c-cpp-config-4.1.0-universal: franneck94.vscode-c-cpp-config
+2023-09-03 17:04:48.433 [info] Renamed to /home/lullaby/.vscode-oss/extensions/franneck94.vscode-c-cpp-config-4.1.0-universal
+2023-09-03 17:04:48.440 [info] Extracting extension completed. franneck94.vscode-c-cpp-config
+2023-09-03 17:04:48.786 [info] Extension signature verification is not done: franneck94.c-cpp-runner
+2023-09-03 17:04:48.910 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/franneck94.c-cpp-runner-5.2.1-universal: franneck94.c-cpp-runner
+2023-09-03 17:04:48.925 [info] Renamed to /home/lullaby/.vscode-oss/extensions/franneck94.c-cpp-runner-5.2.1-universal
+2023-09-03 17:04:48.932 [info] Extracting extension completed. franneck94.c-cpp-runner
+2023-09-03 17:04:49.699 [info] Extension signature verification is not done: franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:49.714 [info] Extracted extension to file:///home/lullaby/.vscode-oss/extensions/franneck94.vscode-c-cpp-dev-extension-pack-0.10.0-universal: franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:49.720 [info] Renamed to /home/lullaby/.vscode-oss/extensions/franneck94.vscode-c-cpp-dev-extension-pack-0.10.0-universal
+2023-09-03 17:04:49.723 [info] Extracting extension completed. franneck94.vscode-c-cpp-dev-extension-pack
+2023-09-03 17:04:49.739 [info] Extension installed successfully: bbenoist.doxygen
+2023-09-03 17:04:49.739 [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+2023-09-03 17:04:49.739 [info] Extension installed successfully: 13xforever.language-x86-64-assembly
+2023-09-03 17:04:49.739 [info] Extension installed successfully: vadimcn.vscode-lldb
+2023-09-03 17:04:49.740 [info] Extension installed successfully: cheshirekow.cmake-format
+2023-09-03 17:04:49.740 [info] Extension installed successfully: cschlosser.doxdocgen
+2023-09-03 17:04:49.740 [info] Extension installed successfully: twxs.cmake
+2023-09-03 17:04:49.741 [info] Extension installed successfully: franneck94.vscode-c-cpp-config
+2023-09-03 17:04:49.741 [info] Extension installed successfully: franneck94.c-cpp-runner
+2023-09-03 17:04:49.741 [info] Extension installed successfully: franneck94.vscode-c-cpp-dev-extension-pack

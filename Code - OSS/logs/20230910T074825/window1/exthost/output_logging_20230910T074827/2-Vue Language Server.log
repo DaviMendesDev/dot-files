@@ -1,0 +1,331 @@
+Vetur initialized
+[INFO ] Loaded bundled typescript@4.9.5.
+[INFO ] Loaded bundled prettier.
+[INFO ] Loaded bundled @starptech/prettyhtml.
+[INFO ] Loaded bundled prettier-eslint.
+[INFO ] Loaded bundled prettier-tslint.
+[INFO ] Loaded bundled stylus-supremacy.
+[INFO ] Loaded bundled @prettier/plugin-pug.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.
+[Error - 8:52:12 AM] Error: Cannot find module 'vue/package.json'
+Require stack:
+- /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js
+- /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vueServerMain.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:963:15)
+    at Function.resolve (node:internal/modules/cjs/helpers:108:19)
+    at inferVueVersion (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:667:3335)
+    at Object.getVueVersion (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:3207)
+    at Object.updateExternalDocument (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:888:2223)
+    at Object.onDocumentChanged (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:699:3785)
+    at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:14468
+    at Array.forEach (<anonymous>)
+    at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:14433
+[INFO ] refresh ts language service when /home/lullaby/Projects/Safepill/safepill-frontend/package.json changed.
+[Error - 8:52:12 AM] Error: Cannot find module 'vue/package.json'
+Require stack:
+- /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js
+- /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vueServerMain.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:963:15)
+    at Function.resolve (node:internal/modules/cjs/helpers:108:19)
+    at inferVueVersion (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:667:3335)
+    at Object.getVueVersion (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:3207)
+    at init (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:888:781)
+    at Object.updateExternalDocument (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:888:2301)
+    at Object.onDocumentChanged (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:699:3785)
+    at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:14468
+    at Array.forEach (<anonymous>)
+    at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:14433
+[Error - 8:52:12 AM] Error: Cannot find module 'vue/package.json'
+Require stack:
+- /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js
+- /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vueServerMain.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:963:15)
+    at Function.resolve (node:internal/modules/cjs/helpers:108:19)
+    at inferVueVersion (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:667:3335)
+    at Object.getVueVersion (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:3207)
+    at Object.updateExternalDocument (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:888:2223)
+    at Object.onDocumentChanged (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:699:3785)
+    at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:14468
+    at Array.forEach (<anonymous>)
+    at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:14433
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package.json in ts language service.
+[Error - 8:52:12 AM] Error: Cannot find module 'vue/package.json'
+Require stack:
+- /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js
+- /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vueServerMain.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:963:15)
+    at Function.resolve (node:internal/modules/cjs/helpers:108:19)
+    at inferVueVersion (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:667:3335)
+    at Object.getVueVersion (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:3207)
+    at Object.updateExternalDocument (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:888:2223)
+    at Object.onDocumentChanged (/home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:699:3785)
+    at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:14468
+    at Array.forEach (<anonymous>)
+    at /home/lullaby/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:14433
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package.json in ts language service.
+[INFO ] refresh ts language service when /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json changed.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.
+DeprecationWarning: 'createIdentifier' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+DeprecationWarning: 'createImportClause' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+DeprecationWarning: 'createLiteral' has been deprecated since v4.0.0. Use `factory.createStringLiteral`, `factory.createStringLiteralFromNode`, `factory.createNumericLiteral`, `factory.createBigIntLiteral`, `factory.createTrue`, `factory.createFalse`, or the factory supplied by your transformation context instead.
+DeprecationWarning: 'createImportDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+DeprecationWarning: 'createCallExpression' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+DeprecationWarning: 'createObjectLiteralExpression' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/tailwind.config.js in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/node_modules/.package-lock.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/components.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/app.config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/layouts.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/middleware.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-nuxt.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/plugins.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/vue-shim.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/vue-router.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/dist/server/client.manifest.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/schema/nuxt.schema.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/tsconfig.server.json in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-config.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-imports.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro-routes.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.
+[INFO ] update /home/lullaby/Projects/Safepill/safepill-frontend/.nuxt/types/nitro.d.ts in ts language service.

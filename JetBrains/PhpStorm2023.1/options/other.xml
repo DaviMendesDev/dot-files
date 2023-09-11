@@ -1,0 +1,65 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "MarketplacePluginsSearchHistory": "tailwind\ngit\ntheme\nthem\n/tag:theme",
+    "MemberChooser.showClasses": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PhpStorm.InitialConfiguration": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "PS-231.9011.38-b5f7f038822d65b8fa5644d9965ba31bed6053c51c5c052ed1626110f8549433",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PS-231.9011.38",
+    "completion.ml.enabled.notification.shown": "true",
+    "evlsprt3.223": "23",
+    "evlsprt3.231": "23",
+    "experimental.ui.used.once": "true",
+    "file.gist.reindex.count": "64",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
+    "got.it.tooltip.Debug Validation": "1",
+    "gotit.previous.run": "PS-231.9011.38",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/lullaby/PhpstormProjects/api",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dracula Colorful",
+    "registry.to.advanced.settings.migration.build": "PS-231.9011.38",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/lullaby/PhpstormProjects/php-getnet",
+      "/home/lullaby/PhpstormProjects/api"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1675210229675,
+    "SpeedSearch": 1686384166315,
+    "GoToDeclaration": 1686345232974,
+    "CommentCode": 1675166769452,
+    "FindReplaceToggle": 1673868318220,
+    "ShowUsages": 1689446881278,
+    "FindInPath": 1686508321165
+  }
+}]]></component>
+</application>

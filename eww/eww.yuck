@@ -1,36 +1,38 @@
-(defpoll TIME :interval "5s" `date +'%I:%M %p'`)
-(defpoll DATE :interval "5s" `date +'%A, %B %d'`)
+(defpoll TIME :interval "1s" `date +'%H:%M'`)
+(defpoll DATE :interval "1s" `date +'%D'`)
 (defpoll WMS :interval "1s" `wmctrl -d | grep '*' | cut -d ' ' -f13`)
 
-(defpoll ICON :interval "15m" `scripts/weather_info.sh --icon`)
-(defpoll TEMP :interval "15m" `scripts/weather_info.sh --temp`)
-(defpoll HEX :interval "15m" `scripts/weather_info.sh --hex`)
+(deflisten PLY_TITLE `playerctl --follow metadata --format {{title}}`)
+(deflisten PLY_ARTIST `playerctl --follow metadata --format {{artist}}`)
+(defpoll PLY_COVER :interval "2s" `playerctl metadata --format {{mpris:artUrl}} | sed 's%^file://%%'`)
 
-(defpoll PLY_TITLE :interval "5s" `playerctl metadata title`)
-(defpoll PLY_ARTIST :interval "5s" `playerctl metadata artist`)
-(defpoll PLY_COVER :interval "5s" `playerctl metadata mpris:artUrl | sed 's/^file:\/\///'`)
-
+(defvar PRIMARY_COLOR "#342133")
+(defvar SECONDARY_COLOR "#73f9ce")
 
 (defwindow toolbar
     :monitor 0
     :geometry (geometry :x "0%"
                         :y "0%"
-                        :width "98%"
+                        :width "100%"
                         :height "20px"
-                        :anchor "top center")
+                        :anchor "top left")
     :stacking "fg"
-    :reserve (struts :distance "10px" :side "top")
+    :reserve (struts :distance "40px" :side "top")
     :windowtype "dock"
     :wm-ignore false
-        (box :class "bg-transparent" :orientation "horizontal" :halign "center" (player))
+    (box :class "main-box" :style "background-color: ${PRIMARY_COLOR}; color: ${SECONDARY_COLOR};"
+	(box 
+	    DATE "|" TIME
+	)
+    )
 )
 
 
 (defwidget player []
     (box 
-        :class "rounded-md bg-neutral-500"
-        PLY_TITLE PLY_ARTIST PLY_COVER
-        (image :path PLY_COVER :image-width 100 :image-height 100) 
+        
+        PLY_TITLE 
+        (image :path PLY_COVER :image-height 30) 
 ))
 
 

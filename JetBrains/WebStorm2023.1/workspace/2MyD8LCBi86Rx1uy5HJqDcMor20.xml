@@ -1,0 +1,604 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="my-market-helper" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/markets/new.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/MarketComponent.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="56" column="42" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/small/ProductListItem.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/small/EditableField.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/Factory/MaskFactory.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/layout/Header.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/types/Market.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/support/model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/types/Product.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="2" lastUsed="1679246162457" />
+    </fileType>
+    <fileType name="CSS">
+      <summary usageCount="6" lastUsed="1679500627498" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="2" lastUsed="1678734831204" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1678730873486" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="2" lastUsed="1680974513124" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="14" lastUsed="1680956767271" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1678730771239" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="68" lastUsed="1682258290140" />
+    </fileType>
+    <fileType name="TypeScript JSX">
+      <summary usageCount="130" lastUsed="1682258289433" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="3" lastUsed="1679060234275" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>usr/node/app</find>
+      <find>flat</find>
+      <find>target</find>
+      <find>inline-block</find>
+      <find>overflow-hidden</find>
+      <find>rounded-xl</find>
+      <find>py</find>
+      <find>px-3</find>
+      <find>'w-full</find>
+      <find>bg-monarch-400</find>
+      <find>rounded-md</find>
+      <find>items</find>
+      <find>props.product</find>
+      <find>product</find>
+      <find>className</find>
+      <find>ref</find>
+      <find>react-input-mask</find>
+      <find>class</find>
+      <find>=</find>
+      <find>field</find>
+      <find>inputClassName</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>home/node/app</replace>
+      <replace>rounded-md</replace>
+      <replace>py-2</replace>
+      <replace>px-1</replace>
+      <replace>'w-full mx-2 hover</replace>
+      <replace>bg-monarch-400</replace>
+      <replace>bg-monarch-300</replace>
+      <replace>rounded-sm</replace>
+      <replace>product</replace>
+      <replace>props.product</replace>
+      <replace>:</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Dockerfile" />
+      <option value="$PROJECT_DIR$/docker-compose-dev.yml" />
+      <option value="$PROJECT_DIR$/next.config.js" />
+      <option value="$PROJECT_DIR$/postcss.config.js" />
+      <option value="$PROJECT_DIR$/src/pages/_document.tsx" />
+      <option value="$PROJECT_DIR$/src/pages/_app.tsx" />
+      <option value="$PROJECT_DIR$/tailwind.config.js" />
+      <option value="$PROJECT_DIR$/src/components/Header.tsx" />
+      <option value="$PROJECT_DIR$/src/utils/types/HasChildren.ts" />
+      <option value="$PROJECT_DIR$/src/components/layout/Main.tsx" />
+      <option value="$PROJECT_DIR$/src/components/layout/MainCard.tsx" />
+      <option value="$PROJECT_DIR$/src/pages/index.tsx" />
+      <option value="$PROJECT_DIR$/src/utils/types/AutoIncrement.ts" />
+      <option value="$PROJECT_DIR$/src/styles/globals.css" />
+      <option value="$PROJECT_DIR$/src/components/complex/ProductsList.tsx" />
+      <option value="$PROJECT_DIR$/src/components/Market.tsx" />
+      <option value="$PROJECT_DIR$/src/pages/markets/new.tsx" />
+      <option value="$PROJECT_DIR$/src/components/layout/Header.tsx" />
+      <option value="$PROJECT_DIR$/src/utils/support/model.ts" />
+      <option value="$PROJECT_DIR$/src/utils/types/Market.ts" />
+      <option value="$PROJECT_DIR$/src/utils/types/Product.ts" />
+      <option value="$PROJECT_DIR$/src/utils/Factory/MaskFactory.ts" />
+      <option value="$PROJECT_DIR$/src/utils/Factory/MaskFactory.tsx" />
+      <option value="$PROJECT_DIR$/src/components/small/ProductListItem.tsx" />
+      <option value="$PROJECT_DIR$/src/components/small/EditableDiv.tsx" />
+      <option value="$PROJECT_DIR$/src/components/MarketComponent.tsx" />
+      <option value="$PROJECT_DIR$/src/components/small/EditableField.tsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="6" lastUsage="1679500627499" />
+    </language>
+    <language id="Dockerfile">
+      <summary usageCount="2" lastUsage="1678734831204" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1678730873489" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1680974513124" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="14" lastUsage="1680956767271" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1678730771242" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="68" lastUsage="1682258290140" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="130" lastUsage="1682258289433" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="3" lastUsage="1679060234275" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="complex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="small" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="markets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-market-helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-market-helper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162904000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20308717" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.3302058" />
+      <window_info anchor="right" id="Web Inspector" order="5" weight="0.25" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>github.copilotToolWindow</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="240" width="374" height="536" key="#com.intellij.ide.util.MemberChooser" timestamp="1680734751323">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="646" y="240" width="374" height="536" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1680734751323" />
+    <state x="433" y="208" width="800" height="600" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1681076536271">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="433" y="208" width="800" height="600" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1681076536271" />
+    <state x="576" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1679296050183">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="576" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1679296050182" />
+    <state x="626" y="296" key="FileChooserDialogImpl" timestamp="1682258356701">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="626" y="296" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1682258356701" />
+    <state x="347" y="83" key="SettingsEditor" timestamp="1680641499716">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="347" y="83" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1680641499716" />
+    <state x="595" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1680867757727">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="595" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1680867757727" />
+    <state x="622" y="319" key="refactoring.ChangeSignatureDialog" timestamp="1679249334780">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="622" y="319" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1679249334780" />
+    <state x="501" y="227" width="733" height="709" key="search.everywhere.popup" timestamp="1680878669822">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="501" y="227" width="733" height="709" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1680878669822" />
+    <state x="568" y="294" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1678737960828">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="568" y="294" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1678737960828" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/Home.module.css" preview="true" />
+    <entry file="file://$PROJECT_DIR$/next.config.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose-dev.yml" preview="true" />
+    <entry file="file://$PROJECT_DIR$/postcss.config.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/_app.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/_document.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/next/dist/pages/_document.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tailwind.config.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/types/HasChildren.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/types/AutoIncrement.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/react/index.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="3199" column="12" selection-start-line="3199" selection-start-column="12" selection-end-line="3199" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Main.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="54" lean-forward="true" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/MainCard.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/globals.css" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="111" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/complex/ProductsList.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/react-input-mask/index.d.ts" preview="true" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-input-mask/index.js" preview="true" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-input-mask/dist/react-input-mask.min.js" preview="true" />
+    <entry file="file://$PROJECT_DIR$/package.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/text-mask-addons/dist/textMaskAddons.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/markets/new.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MarketComponent.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="56" column="42" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/small/ProductListItem.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Factory/MaskFactory.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Header.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/types/Market.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/support/model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/types/Product.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/small/EditableField.tsx" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

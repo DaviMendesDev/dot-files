@@ -1,0 +1,187 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="3" l="1688220288106" />
+    </e>
+    <e n="$Delete">
+      <i c="1" l="1687871392279" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1688220289610" />
+    </e>
+    <e n="$SelectAll">
+      <i c="2" l="1688218807749" />
+    </e>
+    <e n="$Undo">
+      <i c="26" l="1688223699452" />
+    </e>
+    <e n="ClassNameCompletion">
+      <i c="1" l="1688222885008" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="3" l="1688220876116" />
+    </e>
+    <e n="Console.Jdbc.Execute">
+      <i c="121" l="1689537720488" />
+    </e>
+    <e n="Console.TableResult.AddRow">
+      <i c="2" l="1687870719764" />
+    </e>
+    <e n="Console.TableResult.CloneRow">
+      <i c="6" l="1688220159371" />
+    </e>
+    <e n="Console.TableResult.DeleteRows">
+      <i c="5" l="1687702201593" />
+    </e>
+    <e n="Console.TableResult.RevertSelected">
+      <i c="1" l="1687702196281" />
+    </e>
+    <e n="Console.TableResult.Submit">
+      <i c="16" l="1688220293001" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="2" l="1686477299972" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="3" l="1688218520494" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="270" l="1689537652169" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="52" l="1689537719587" />
+    </e>
+    <e n="EditorCopy">
+      <i c="13" l="1688221959085" />
+    </e>
+    <e n="EditorDown">
+      <i c="143" l="1689537718551" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="48" l="1688220626609" />
+    </e>
+    <e n="EditorEnter">
+      <i c="100" l="1689537650109" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="7" l="1688223006555" />
+    </e>
+    <e n="EditorLeft">
+      <i c="51" l="1688223443969" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="6" l="1688221839917" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="4" l="1687978387646" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="3" l="1688218509391" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1686776998473" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="4" l="1688218635840" />
+    </e>
+    <e n="EditorMoveToPageTop">
+      <i c="1" l="1687702299344" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="33" l="1688221843634" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="7" l="1688221842238" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="1" l="1686776973264" />
+    </e>
+    <e n="EditorPaste">
+      <i c="22" l="1688223700038" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="31" l="1688221843953" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="26" l="1688221841998" />
+    </e>
+    <e n="EditorRight">
+      <i c="108" l="1688223717314" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1" l="1688223488631" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="2" l="1686776802934" />
+    </e>
+    <e n="EditorTab">
+      <i c="9" l="1688223442415" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="12" l="1688223439129" />
+    </e>
+    <e n="EditorUp">
+      <i c="124" l="1689537650435" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="55" l="1688221202324" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1688218777330" />
+    </e>
+    <e n="QuickDocCopy">
+      <i c="2" l="1688220041676" />
+    </e>
+    <e n="ReformatCode">
+      <i c="9" l="1688223700862" />
+    </e>
+    <e n="Runner.CloseView">
+      <i c="2" l="1688220199193" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1687701161295" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1686347151212" />
+    </e>
+    <e n="ViewSource">
+      <i c="1" l="1687702215902" />
+    </e>
+    <e n="WelcomeScreen.CreateDirectoryProject">
+      <i c="1" l="1686347011240" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1686347040038" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
+      <i c="2" l="1688220231334" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
+      <i c="4" l="1687711972934" />
+    </e>
+    <e n="com.intellij.database.view.ui.DataSourcesSideTab$AddAction">
+      <i c="1" l="1686347035179" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1688218806418" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1687702219641" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="16" l="1688218617134" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="20" l="1689545246330" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="4" l="1688218674553" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="7" l="1688223491234" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="39" l="1688223490968" />
+    </e>
+  </component>
+</application>

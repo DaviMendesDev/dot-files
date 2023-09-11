@@ -1,0 +1,23 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1680.1050" x="502" y="148" />
+    <size key="find.popup.0.0.1680.1050" width="672" height="750" />
+  </component>
+  <component name="WindowManager">
+    <frame x="12" y="12" width="1652" height="1022" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="621" y="281" width="424" height="454" key="FileChooserDialogImpl" timestamp="1686343257148">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="621" y="281" width="424" height="454" key="FileChooserDialogImpl/0.0.1680.1050" timestamp="1686343257148" />
+    <state width="1285" height="124" key="ShowUsagesActions.dimensionServiceKey" timestamp="1689537091457">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1285" height="124" key="ShowUsagesActions.dimensionServiceKey/0.0.1680.1050" timestamp="1689537091457" />
+    <state x="437" y="523" width="851" height="1022" key="WELCOME_SCREEN" timestamp="1686343257429">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="437" y="523" width="851" height="1022" key="WELCOME_SCREEN/0.0.1680.1050" timestamp="1686343257429" />
+  </component>
+</application>

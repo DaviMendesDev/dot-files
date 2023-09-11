@@ -1,0 +1,14 @@
+FROM node:18.17.1
+
+RUN npm install -g nuxi@latest
+
+WORKDIR /home/node/app
+
+COPY ./ /home/node/app
+
+RUN chown -R node:node /home/node/app
+
+USER node
+
+RUN npm install && npm update
+

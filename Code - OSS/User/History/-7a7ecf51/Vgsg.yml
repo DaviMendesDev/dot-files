@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+  safepill_front:
+    container_name: safepill_front
+    command: "sh ./entrypoint.sh"
+    user: node
+    build:
+      dockerfile: ./Dockerfile
+    environment:
+      - NODE_ENV=development
+    volumes:
+      - ./:/home/node/app
+    expose:
+      - "8081"
+
+networks:
+  safepillapp_network:
+    name: "safepillapp_network"
+

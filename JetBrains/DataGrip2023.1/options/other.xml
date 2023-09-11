@@ -1,0 +1,49 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "DB-231.9011.35",
+    "MarketplacePluginsSearchHistory": "/tag:theme\ntheme",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "DB-231.9011.35-9521db4bd08fcea4cbdf2195ac7b4d3749cb7407c0d41116da269650acb1b034",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "DB-231.9011.35",
+    "evlsprt3.231": "26",
+    "experimental.ui.first.promotion.localdate": "2023-06-09",
+    "file.gist.reindex.count": "42",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "gotit.previous.run": "DB-231.9011.35",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dracula Colorful",
+    "registry.to.advanced.settings.migration.build": "DB-231.9011.35"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1686776803721,
+    "CtrlW": 1687956923978,
+    "Rename": 1688218453786,
+    "SearchEverywhere": 1687854602167,
+    "GoToDeclaration": 1686475591485,
+    "CommentCode": 1687682369015,
+    "ShowUsages": 1687546022194,
+    "FindReplaceToggle": 1687956923772,
+    "FindInPath": 1689537640228
+  }
+}]]></component>
+</application>

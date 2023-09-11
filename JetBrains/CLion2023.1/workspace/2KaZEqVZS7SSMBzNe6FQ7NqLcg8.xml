@@ -1,0 +1,311 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="device-drivers" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code1/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code1/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="3" lastUsed="1675004642694" />
+    </fileType>
+    <fileType name="Assembly file">
+      <summary usageCount="1" lastUsed="1675000708949" />
+    </fileType>
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="16" lastUsed="1675729600891" />
+    </fileType>
+    <fileType name="Makefile">
+      <summary usageCount="32" lastUsed="1675729600954" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1674214547221" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="36" lastUsed="1675729600744" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="6" lastUsed="1674838628641" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="2" lastUsed="1675004518726" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>;</find>
+      <find>helloworld</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/code1</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/code1/mkdevices.sh" />
+      <option value="$PROJECT_DIR$/code1/asm/code.asm" />
+      <option value="$PROJECT_DIR$/code1/Makefile" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/code1/main.c" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ASM">
+      <summary usageCount="1" lastUsage="1675000708950" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="16" lastUsage="1675729600891" />
+    </language>
+    <language id="Makefile">
+      <summary usageCount="32" lastUsage="1675729600954" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1674214547222" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="36" lastUsage="1675729600748" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="6" lastUsage="1674838628641" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="2" lastUsage="1675004518726" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="device_drivers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="device-drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="device_drivers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="device-drivers" type="462c0819:PsiDirectoryNode" />
+              <item name="code1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85503000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25030267" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" show_stripe_button="false" weight="0.31924644" />
+      <window_info anchor="bottom" id="CMake" order="5" weight="0.31924644" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+    </layoutV2>
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" weight="0.2309322" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2309322" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33044806" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Messages</value>
+      <value>CMake</value>
+      <value>Terminal</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="640" height="204" key="CreateCMakeListWizard.bottomPanel" timestamp="1674839232088">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="640" height="204" key="CreateCMakeListWizard.bottomPanel/0.0.1680.1050@0.0.1680.1050" timestamp="1674839232088" />
+    <state width="640" height="476" key="CreateCMakeListWizard.topPanel" timestamp="1674839232084">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="640" height="476" key="CreateCMakeListWizard.topPanel/0.0.1680.1050@0.0.1680.1050" timestamp="1674839232084" />
+    <state x="626" y="316" key="FileChooserDialogImpl" timestamp="1675104227097">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="626" y="316" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1675104227097" />
+    <state x="332" y="193" key="SettingsEditor" timestamp="1675450440763">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="332" y="193" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1675450440763" />
+    <state x="527" y="112" width="672" height="822" key="find.popup" timestamp="1675005075591">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="527" y="112" width="672" height="822" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1675005075591" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code1/main.mod.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#466#489#0" expanded="true" />
+            <element signature="e#552#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/linux/fcntl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code1/mkdevices.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/linux/module.h" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code1/.main.ko.cmd" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code1/asm/code.asm" />
+    <entry file="file://$PROJECT_DIR$/code1/modules.order" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code1/.modules.order.cmd" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code1/Module.symvers" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/modules/6.1.4-arch1-1/build/include/linux/kern_levels.h" preview="true" />
+    <entry file="file://$PROJECT_DIR$/code1/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code1/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

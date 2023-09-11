@@ -1,0 +1,50 @@
+Git4Idea|Version Controls
+
+Remote Development Server|null
+
+XPathView|HTML and XML
+
+bundled-datagrip-help|null
+
+com.intellij.CloudConfig|IDE Settings
+
+com.intellij.completion.ml.ranking|Other Tools
+
+com.intellij.configurationScript|null
+
+com.intellij.database.ide|null
+
+com.intellij.database|Database
+
+com.intellij.dev|null
+
+com.intellij.diagram|Other Tools
+
+com.intellij.platform.images|null
+
+com.intellij.plugins.datagrip.solarized.colorscheme|UI
+
+com.intellij.plugins.vibrantink.colorscheme|UI
+
+com.intellij.plugins.warmneon.colorscheme|UI
+
+com.intellij.searcheverywhere.ml|null
+
+com.intellij.settingsSync|IDE Settings
+
+com.intellij|null
+
+com.jetbrains.performancePlugin.async|Other Tools
+
+com.jetbrains.performancePlugin.yourkit|Other Tools
+
+com.jetbrains.performancePlugin|Other Tools
+
+intellij.grid.core.impl|null
+
+intellij.grid.impl|null
+
+org.intellij.intelliLang|Other Tools
+
+org.jetbrains.plugins.textmate|Other Tools
+

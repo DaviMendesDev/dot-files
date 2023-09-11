@@ -1,0 +1,47 @@
+2023-09-03 17:03:35.193 [info] Extension host with pid 19450 started
+2023-09-03 17:03:35.248 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-03 17:03:35.253 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-03 17:03:35.354 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-03 17:03:35.401 [info] Eager extensions activated
+2023-09-03 17:03:35.421 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-03 17:03:35.423 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-03 17:04:03.465 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-03 17:04:03.475 [info] Extension host with pid 19450 exiting with code 0
+2023-09-03 17:04:04.620 [info] Extension host with pid 19540 started
+2023-09-03 17:04:04.620 [info] Skipping acquiring lock for /home/lullaby/.config/Code - OSS/User/workspaceStorage/b69b5ce276364f37ab95851db7d0d213.
+2023-09-03 17:04:04.652 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-03 17:04:04.656 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-03 17:04:04.662 [info] Eager extensions activated
+2023-09-03 17:04:04.666 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-03 17:04:04.667 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-03 17:04:07.113 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-03 17:04:09.638 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-03 17:04:50.204 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2023-09-03 17:04:50.255 [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:c'
+2023-09-03 17:04:50.414 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2023-09-03 17:04:50.421 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'onLanguage:c'
+2023-09-03 17:17:57.320 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-03 17:17:57.337 [error] Canceled: Canceled
+	at new h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at a.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+	at a.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+	at v.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+	at a.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+	at a.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+	at a.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+	at setContextValue (/home/lullaby/.vscode-oss/extensions/franneck94.c-cpp-runner-5.2.1-universal/dist/main.js:5343:28)
+	at Object.deactivate (/home/lullaby/.vscode-oss/extensions/franneck94.c-cpp-runner-5.2.1-universal/dist/main.js:3482:39)
+	at r.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:9494)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+	at Array.map (<anonymous>)
+	at r.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+	at r.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+	at s.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+	at C (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-03 17:17:57.338 [info] Extension host with pid 19540 exiting with code 0

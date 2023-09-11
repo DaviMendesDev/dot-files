@@ -1,0 +1,82 @@
+<application>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "MarketplacePluginsSearchHistory": "/tag:theme dracula\n/tag:theme darcula\n/tag:theme dark\n/tag:theme\n/tag:theme dracu",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "comple",
+    "SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION": "0.35",
+    "appcds.runOnSecondStart": "CL-231.9011.31-aa326bfc9424b8cc99722860cf9ed70e1f6292e2b5bb7ab09d13df130f1a3d0a",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "CL-231.9011.31",
+    "clion.initialConfigPerformed": "true",
+    "evlsprt3.223": "26",
+    "evlsprt3.231": "25",
+    "experimental.ui.used.once": "true",
+    "file.gist.reindex.count": "122",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.rust.linter.on-the-fly.got.it": "1",
+    "gotit.previous.run": "CL-231.9011.31",
+    "input.method.disabler.muted": "true",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.rust.lang.LAST_UPDATE": "1678843829927",
+    "org.rust.lang.LAST_VERSION": "0.4.190.5263-223",
+    "previousColorScheme": "_@user_Light",
+    "registry.to.advanced.settings.migration.build": "CL-231.9011.31",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/lullaby/future-machines/device-drivers",
+      "/lib/modules/6.1.4-arch1-1/build"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "GoToAction": 1675126706810,
+    "SpeedSearch": 1681430033096,
+    "CtrlW": 1680903530790,
+    "Rename": 1681576682603,
+    "FocusProjectToolWindow": 1686240800884,
+    "QuickJavaDoc": 1675070159173,
+    "SearchEverywhere": 1675729607956,
+    "GoToDeclaration": 1687220374914,
+    "EvaluateExpression": 1675298878672,
+    "CommentCode": 1686685166511,
+    "FindReplaceToggle": 1679048577397,
+    "ShowUsages": 1679048576979,
+    "QuickFix": 1688683836975,
+    "FindInPath": 1678876879218,
+    "GoToFile": 1675285520333
+  }
+}]]></component>
+</application>

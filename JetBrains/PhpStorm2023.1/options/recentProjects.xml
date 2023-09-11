@@ -1,0 +1,35 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="api – PaymentInfo.php" projectWorkspaceId="2Qz4pNM6TPg7d6ZkwmfQD1JqKec">
+              <option name="activationTimestamp" value="1689632829977" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-231.9011.38" />
+              <option name="buildTimestamp" value="1684272870278" />
+              <frame x="12" y="12" width="1652" height="1022" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1689631297270" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/php-getnet">
+          <value>
+            <RecentProjectMetaInfo frameTitle="php-getnet – OperationResult.php" opened="true" projectWorkspaceId="2SicR4AvKxJ3bkes6KWYvg7kyGu">
+              <option name="activationTimestamp" value="1690103267828" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-231.9011.38" />
+              <option name="buildTimestamp" value="1684272857867" />
+              <frame x="12" y="12" width="1652" height="1022" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1690103244351" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/PhpstormProjects/php-getnet" />
+  </component>
+</application>

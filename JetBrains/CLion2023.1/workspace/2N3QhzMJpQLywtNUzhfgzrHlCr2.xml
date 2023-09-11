@@ -1,0 +1,120 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="c-trainning" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="4" lastUsed="1681430025610" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="4" lastUsed="1681430025861" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.c" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CMake">
+      <summary usageCount="4" lastUsage="1681430025615" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="4" lastUsage="1681430025861" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.c_trainning" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6720000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1788741" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.33023483" />
+      <window_info anchor="bottom" id="CMake" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.33023483" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="296" key="FileChooserDialogImpl" timestamp="1681430566973">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="626" y="296" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1681430566973" />
+    <state width="1570" height="295" key="GridCell.Tab.0.bottom" timestamp="1680907121963">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1570" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1680907121963" />
+    <state width="1570" height="295" key="GridCell.Tab.0.center" timestamp="1680907121963">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1570" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1680907121963" />
+    <state width="1570" height="295" key="GridCell.Tab.0.left" timestamp="1680907121963">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1570" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1680907121963" />
+    <state width="1570" height="295" key="GridCell.Tab.0.right" timestamp="1680907121963">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1570" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1680907121963" />
+    <state x="546" y="327" key="refactoring.ChangeSignatureDialog" timestamp="1680903891064">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="546" y="327" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1680903891064" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
